@@ -1,6 +1,6 @@
 // Only change code below this line
 var myClothes = {
-    hat: "Fedore",
+    hat: "Fedora",
     shirt: "Nike",
     shoes: "Converse"
 };
